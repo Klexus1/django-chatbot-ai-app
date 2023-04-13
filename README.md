@@ -13,4 +13,8 @@ To install and start using:
 3) Add your API key to ``` .env ``` file in the root directory
 4) Run ``` python manage.py runserver ``` and open server on http://127.0.0.1:8000/
 
+<br />
+
+Feel free to fork or create pull requests.
+
 
